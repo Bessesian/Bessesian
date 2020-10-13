@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Bessesian.github.io/)](https://Bessesian.github.io/)
 	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YearnGui Yi/)](https://www.linkedin.com/in/YearnGui Yi/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YearnGui-Yi/)](https://www.linkedin.com/in/YearnGui-Yi/)
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/indAI)](https://www.youtube.com/c/indAI)
 	
