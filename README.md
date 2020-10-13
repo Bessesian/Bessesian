@@ -5,7 +5,14 @@
 
 </div>
 
-### Hi there 👋
+### Research Prof in Dept of Industrial AI 
+* 
+
+### Interest Area
+* Reinforcement Learning 
+* Statistical Data Analysis 
+* Bayesian Theory 
+
 
 <!--
 **Bessesian/Bessesian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
