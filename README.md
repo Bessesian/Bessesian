@@ -6,11 +6,12 @@
 </div>
 
 ### Research Prof in Dept of Industrial AI 
-* 
+* Set Educational Program
+* Manage Students of Dept of Industrai-AI  
 
 ### Interest Area
+* Mathematical System Theory
 * Reinforcement Learning 
-* Statistical Data Analysis 
 * Bayesian Theory 
 
 
